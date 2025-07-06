@@ -1,0 +1,5 @@
+Potato Chips	Food	900
+Chicken fried	Food	1800
+Coca Cola	Drink	700
+Pepsi	Drink	800
+FanTa	Drink	1500
